@@ -2,7 +2,7 @@
 <h3 align="center">🎓 CS Undergrad | 💻 React Developer | 🚀 Learning Full Stack & Machine Learning</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Passionate+about+building+real-world+apps;Loves+learning+and+debugging;Aspiring+Full+Stack+Engineer;CS+Student+from+JSS+STU" alt="Typing animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Loves+to+build+real-world+apps;Loves+learning+and+debugging;Aspiring+Full+Stack+Engineer;CS+Student+from+JSS+STU" alt="Typing animation" />
 </p>
 
 <p align="center">
