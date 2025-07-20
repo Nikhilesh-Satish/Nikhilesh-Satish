@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Nikhilesh Satish</h1>
-<h3 align="center">🎓 CS Undergrad | 💻 React Developer | 🚀 Learning Full Stack & Machine Learning</h3>
+<h3 align="center">🎓 CS Undergrad | ⚛️ React Developer | 🚀 Learning Full Stack & ML</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Loves+to+build+real-world+apps;Loves+learning+and+debugging;Aspiring+Full+Stack+Engineer;CS+Student+from+JSS+STU" alt="Typing animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F7F7F7&center=true&vCenter=true&width=600&lines=React+Dev+%7C+CS+Student+at+JSS+STU;Loves+Debugging+and+Building+UIs;Exploring+ML+%26+Backend;Actively+Improving+Every+Day!" />
 </p>
 
 <p align="center">
@@ -11,44 +11,58 @@
 
 ---
 
-### 🧠 About Me
+## 🌐 Socials
 
-- 🎓 CS undergraduate at **JSS Science and Technology University, Mysore**
-- ⚛️ Building dynamic UIs with **React**
-- 🌱 Currently learning **Node.js, Express & MongoDB**
-- 🤖 Exploring **Machine Learning** and real-world AI apps
-- 🧠 Strong foundation in **Data Structures & Algorithms**
-- 📬 Reach me at: [nikhilesh1904@gmail.com](mailto:nikhilesh1904@gmail.com)
-
----
-
-### 🛠️ Tech Stack
-
-- **Languages:** Java · Python · C · JavaScript  
-- **Frontend:** ReactJS · HTML · CSS · Tailwind CSS  
-- **Backend & DB:** MySQL (learning MongoDB + Node.js)  
-- **Tools:** Git · GitHub · VS Code  
-- **Learning:** Full Stack Dev · ML with Scikit-learn
+<p align="center">
+  <a href="mailto:nikhilesh1904@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/nikhilesh-satish-50b315273/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/Nikhilesh-Satish">
+    <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-### 🚀 Featured Projects
+## 💻 Tech Stack
 
-#### 🔹 Mentokind – Mental Health Predictor  
-🧠 React frontend with ML model using questionnaire + facial cues  
-Tech: React, Scikit-learn, Gemini API
+<p align="center">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</p>
 
-#### 🔹 AutoMind – Car Price Predictor  
-🚗 Predicts prices for new & old cars  
-Tech: React, Tailwind, Flask, XGBoost & Random Forest
+---
 
-#### 🔹 The Hopeful HandWritten  
-📩 Anonymous message-sharing app focused on accessibility  
-Tech: ReactJS
+## 🚀 Projects
 
-#### 🔹 Insurance Cost Estimator  
-📊 EDA + Linear Regression on insurance dataset  
-Tech: Python, Pandas, Matplotlib
+### 🔹 Mentokind – Mental Health Predictor  
+A smart app to predict mental health needs using a questionnaire + facial expressions  
+🛠 React, MERN, Scikit-learn, Gemini API
+
+### 🔹 AutoMind – Car Price Predictor  
+Predicts prices for old and new cars based on key features  
+🛠 React, Flask, Scikit-learn (Random Forest, XGBoost), Tailwind
+
+### 🔹 The Hopeful HandWritten  
+Anonymous message sharing platform with a minimalist UX  
+🛠 ReactJS, frontend-focused design
+
+### 🔹 Insurance Cost Estimator  
+Performed EDA and used Linear Regression to estimate total cost  
+🛠 Python, Pandas, Seaborn, Matplotlib
 
 ---
 
@@ -68,21 +82,30 @@ Tech: Python, Pandas, Matplotlib
 ## 📊 GitHub Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Nikhilesh-Satish&theme=github-compact" alt="Activity Graph"/>
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Nikhilesh-Satish&theme=github-compact&hide_border=true" />
 </p>
 
 ---
 
-## 🔗 Let's Connect
+## 🧠 Currently Learning
 
-<p align="center">
-  <a href="mailto:nikhilesh1904@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/nikhilesh-satish-50b315273/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/Nikhilesh-Satish">
-    <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
+- 📚 Full Stack Development (Node.js + MongoDB + Express)
+- 📈 Machine Learning fundamentals with Scikit-learn
+- 🧪 API integrations & hosting (Render, Vercel)
+
+---
+
+## 🏆 Achievements
+
+- 🥇 Finalist – Inohax 1.0 Hackathon (Top 30)
+- Hackerrank software engineer role certification
+- AWS badges for EC2 and S3
+
+
+---
+
+> *"I’m not just building apps, I’m building myself — one commit at a time."*
+
+---
+
+
