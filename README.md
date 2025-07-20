@@ -18,12 +18,13 @@
 
 ---
 
-### 🔨 Tech Stack
+
 
 ### 🛠️ Tech Stack
 
 - **Languages:** Java · Python · C · JavaScript  
-- **Frontend:** ReactJS · HTML · CSS · Tailwind CSS  
+- **Frontend:** ReactJS · HTML · CSS · Tailwind CSS
+- **Database:** MySQL  
 - **Currently Learning:** Node.js · Express · MongoDB · Scikit-learn  
 - **Tools:** Git · GitHub · VS Code
 
