@@ -80,9 +80,14 @@ Performed EDA and used Linear Regression to estimate total cost
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Nikhilesh-Satish&theme=github-dark&hide_border=true" width="48%" />
 </p>
 
+### 🏅 LeetCode Badges
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikhilesh-Satish&layout=compact&theme=github_dark&hide_border=true" width="48%" />
+  <img src="https://assets.leetcode.com/static_assets/marketing/50-days-badge.svg" width="120" alt="50 Days Badge" />
+  <img src="https://assets.leetcode.com/static_assets/marketing/50-days-badge.svg" width="120" alt="50 Days Badge 2" />
+  <img src="https://assets.leetcode.com/static_assets/marketing/100-days-badge.svg" width="120" alt="100 Days Badge" />
 </p>
+
 
 ---
 
