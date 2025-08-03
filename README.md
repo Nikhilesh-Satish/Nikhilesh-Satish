@@ -89,10 +89,18 @@ Performed EDA and used Linear Regression to estimate total cost
 ## 📊 GitHub Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Nikhilesh-Satish&theme=github-compact&hide_border=true" />
+  <img src="https://github-activity-graph.vercel.app/graph?username=Nikhilesh-Satish&theme=github-compact&hide_border=true" />
+
 </p>
 
 ---
+
+## 🧩 LeetCode Stats
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/Nikhilesh_Satish?theme=dark&font=Fira+Code&ext=activity" />
+</p>
+
 
 ## 🧠 Currently Learning
 
