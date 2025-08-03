@@ -98,8 +98,10 @@ Performed EDA and used Linear Regression to estimate total cost
 ## 🧩 LeetCode Stats
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/Nikhilesh_Satish?theme=dark&font=Fira+Code&ext=activity" />
+  <img src="https://leetcard.jacoblin.cool/Nikhilesh_Satish?theme=dark&ext=heatmap" />
 </p>
+
+
 
 
 ## 🧠 Currently Learning
