@@ -109,11 +109,7 @@ Performed EDA and used Linear Regression to estimate total cost
 
 ### 🏅 LeetCode Badges
 
-<p align="center">
-  <img src="https://cp-logo.vercel.app/leetcode/Nikhilesh_Satish?logo=true&badge=50-days" alt="50 Days Badge" />
-  <img src="https://cp-logo.vercel.app/leetcode/Nikhilesh_Satish?logo=true&badge=50-days" alt="50 Days Badge 2" />
-  <img src="https://cp-logo.vercel.app/leetcode/Nikhilesh_Satish?logo=true&badge=100-days" alt="100 Days Badge" />
-</p>
+
 
 
 
